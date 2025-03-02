@@ -1,0 +1,14 @@
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\bin\Debug\net8.0\DefenderInformation.exe
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\bin\Debug\net8.0\DefenderInformation.deps.json
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\bin\Debug\net8.0\DefenderInformation.runtimeconfig.json
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\bin\Debug\net8.0\DefenderInformation.dll
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\bin\Debug\net8.0\DefenderInformation.pdb
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.AssemblyInfoInputs.cache
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.AssemblyInfo.cs
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.csproj.CoreCompileInputs.cache
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.dll
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\refint\DefenderInformation.dll
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.pdb
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\DefenderInformation.genruntimeconfig.cache
+C:\Users\trokh\source\repos\DefenderInformation\DefenderInformation\obj\Debug\net8.0\ref\DefenderInformation.dll
